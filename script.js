@@ -7,17 +7,17 @@ const CFG = {
     about: ["I am a dedicated <b>Ethical Hacker</b> and Cybersecurity Expert driven by a passion for securing complex digital landscapes. My core expertise lies in identifying and resolving critical vulnerabilities through in-depth Penetration Testing, Vulnerability Assessments (VAPT), and Digital Forensics."],
     skills: { "Cybersecurity": ["Ethical Hacking", "Web App Security", "Threat Analysis", "Digital Forensics", "VAPT", "Bug Bounty"], "Security Tools": ["Nmap", "Burp Suite", "Metasploit", "OWASP ZAP", "SQLmap", "Nessus"], "Programming & Systems": ["Linux", "Python", "Java", "C", "Shell Scripting", "Web Development"], "Professional Skills": ["Problem Solving", "Analytical Thinking", "Leadership", "Communication", "Teamwork", "Adaptability"] },
     jobs: [
-        { date: "2026 August - September", title: "Intern", co: "The Drop Organization", url: "https://drop.org.in", desc: "Completed practical training in Web Application Penetration Testing, focusing on identifying, assessing, and documenting common web security vulnerabilities."},
-        { date: "2027 - Onwards", title: "Upcomming..", co: "XXXXXX", url: "", desc: "upcomming.." },
+        { date: "2026 Aug - Oct", title: "Intern", co: "The Drop Organization", url: "https://drop.org.in", desc: "Completed practical training in Web Application Penetration Testing, focusing on identifying, assessing, and documenting common web security vulnerabilities."},
+        { date: "2027 - Onwards", title: "Upcoming..", co: "XXXXXX", url: "", desc: "upcoming.." },
     ],
     degree: ["Bachelor of Computer Applications", { school: "Ravenshaw University", years: "2025 - 2028" }],
     projects: [
-        { t: "Project One", c: "Security Tool", d: "Short description of what this project does and why it matters.", tags: ["Tag", "Tag", "Tag"], url: "#" },
-        { t: "Project Two", c: "Web App", d: "Short description of what this project does and why it matters.", tags: ["Tag", "Tag", "Tag"], url: "#" },
-        { t: "Project Three", c: "Scanner", d: "Short description of what this project does and why it matters.", tags: ["Tag", "Tag", "Tag"], url: "#" }],
+        { t: "PayloadForge", c: "Security Tool", d: "PayloadForge is a browser-based payload encoding and obfuscation framework which can be used for encoding and obfuscating payloads for various security testing purposes and also downloadable reports.", tags: ["CyberSecurity", "PayloadObfuscation", "SecurityTesting"], url: "https://payloadforge-kappa.vercel.app" },
+        { t: "Upcoming Project..", c: "xxxxx", d: "upcoming...", tags: ["xxxxx", "xxxxx", "xxxxx"], url: "#" },
+        { t: "Upcoming Project..", c: "xxxxx", d: "upcoming...", tags: ["xxxxx", "xxxxx", "xxxxx"], url: "#" }],
     freelance:"I am open to <b>VAPT</b>, <b>Web Application Security</b>, <b>Web Development</b> and <b>Cyber Security Auditing</b>",
     certs: [
-        { t: "Upcomming..", by: "XXXXXX", f: "", ty: "TBA" },
+        { t: "Upcoming..", by: "XXXXXX", f: "", ty: "PDF" },
         { t: "Advent of Cyber 2025", by: "TryHackMe", f: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NGVVSKRPQA.pdf", ty: "PDF" },
         { t: "Advent of Cyber 2024", by: "TryHackMe", f: "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PZSPKQNA7J.pdf", ty: "PDF" },
         { t: "Advent of Cyber 2023", by: "TryHackMe", f: "https://tryhackme.com/certificate/THM-KICIGTJNJW", ty: "WEB" },
